@@ -1,0 +1,11 @@
+name,currency
+India,INR
+USA,USD
+Turkey,LIRA
+Pakistan,PNR
+A,B
+C,D
+E,f
+e,g
+g,a
+e,a
